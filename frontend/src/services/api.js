@@ -1,5 +1,5 @@
 // services/api.js
-const API_URL = 'https://power4-app.onrender.com/start';
+const API_URL = 'https://power4-app.onrender.com';
 
 export const startGame = async (mode, player1, player2, difficulty = 'hard') => {
   const res = await fetch(`${API_URL}/start`, {

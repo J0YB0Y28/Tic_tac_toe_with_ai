@@ -101,5 +101,5 @@ Projet réalisé par **J0YB0Y28**
 
 ## 🖼️ Aperçu du jeu
 
-<img src="frontend/public/demo-ui.png" width="600">
+<img src="frontend/public/demo-ui.jpeg" width="600">
 

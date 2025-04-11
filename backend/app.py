@@ -89,4 +89,5 @@ def cleanup_games():
 
 if __name__ == '__main__':
     threading.Thread(target=cleanup_games, daemon=True).start()
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=True)

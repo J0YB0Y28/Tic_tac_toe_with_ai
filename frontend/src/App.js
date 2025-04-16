@@ -125,7 +125,7 @@ export default function App() {
           💼 <a href="https://www.linkedin.com/in/teddy-kana-6a26832b9/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
             LinkedIn
           </a>{" | "}
-          🌐 <a href="https://j0yb0y28.github.io/portfolio/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+          🌐 <a href="https://teddy-kana-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
             Portfolio
           </a>
         </p>
